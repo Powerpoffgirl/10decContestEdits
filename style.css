@@ -1,0 +1,43 @@
+body{
+
+    background-color: black;
+    color: white;
+}
+
+.container{
+    margin-left: 20px;
+}
+
+
+#dropDown{
+    height:2rem;
+    width:10%;
+    background-color:black;
+    color: white;
+    border-radius:0;
+    text-align:center;
+    padding:3px;
+}
+
+
+#filterBtn{
+    border-radius:0;
+    width:10%;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    padding: 8px;
+}
+
+#filterBtn:hover{
+    background-color:white;
+    color:black;
+}
+
+table{
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 35rem;
+    border-spacing:  5px;
+    margin-top: 10px;
+}
